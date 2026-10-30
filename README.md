@@ -5,7 +5,7 @@
 Человек подтверждает ключевые шаги. 15+ лет в IT, от администрирования серверов до
 продакшена LLM-сервисов.
 
-## Проекты в проде
+## Основные проекты
 
 **[LibraCalc](https://github.com/AI-bot-service/libra-calc-showcase)** · [libracalc.ru](https://libracalc.ru)<br>
 Дневник для семей с диабетом 1 типа. По фото тарелки, упаковки или меню столовой ИИ считает
@@ -31,7 +31,7 @@
 ## Стек
 
 - **Backend:** Python, FastAPI, aiogram 3, Celery, SQLAlchemy 2 + Alembic, PostgreSQL + pgvector, Redis
-- **ИИ:** OpenAI, Gemini, Qwen и др. через OpenAI-совместимые API; RAG, vision/OCR, Whisper, структурированный вывод, tool calling, свои бенчмарки моделей
+- **ИИ:** LLM через OpenAI-совместимые API с фолбэком между провайдерами; RAG, vision/OCR, Whisper, структурированный вывод, tool calling, свои бенчмарки моделей
 - **Frontend:** Next.js, React, TypeScript, Tailwind, PWA, Telegram Mini App
 - **Автоматизация:** Playwright (RPA в веб-кабинетах), интеграции с CRM, боты Telegram и MAX
 - **Инфраструктура:** Docker Compose, Traefik, Linux, GitHub Actions, non-root контейнеры, CVE-аудит (trivy, OSV, gitleaks)
