@@ -7,7 +7,7 @@
 
 ## Основные проекты
 
-**[LibraCalc](https://github.com/AI-bot-service/libra-calc-showcase)** · [libracalc.ru](https://libracalc.ru)<br>
+**[LibraCalc](https://github.com/AI-bot-service/libra-calc-showcase)** · [libracalc.ru](https://libracalc.ru/?src=github)<br>
 Дневник для семей с диабетом 1 типа. По фото тарелки, упаковки или меню столовой ИИ считает
 углеводы и ХЕ, данные датчика глюкозы приходят через LibreLinkUp и Nightscout, врачу — PDF-отчёт.
 Модель распознаёт только состав, углеводы считает код по справочникам. Две цепочки фолбэка —
